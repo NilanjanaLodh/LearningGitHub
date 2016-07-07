@@ -13,7 +13,10 @@ This is a readme file
 4. I then created a new branch and edited the README file in the branch 
     command :   git checkout -b branchtest
             
+5. I then went on to gitHub and merged this new branch called 'branchtest' 
+    with branch 'master' , 
 
+    This is called creating a 'Pull request'
 
 
 
